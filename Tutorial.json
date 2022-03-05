@@ -1,0 +1,22 @@
+{
+    "marka" : "Xiomi",
+    "model" : "Red Mi 5 Plus",
+    "fiyat" : 1299,
+    "renk" : ["siyah","gri","kırmızı","mavi"],
+    "kamera" : {
+        "on" : 8,
+        "arka" : 12.5
+    },
+    "stok" : true,
+    "firma" : null,
+    "müşteri hizmetleri" : [
+        {
+            "adsoyad" : "Müptezel Samet",
+            "numara" : 5336472890
+        },
+        {
+            "adsoyad" : "Macun Kaplıcalı",
+            "numara" : 5338973762
+        }
+    ]  
+}
